@@ -1,0 +1,1 @@
+This repository contains a COBOL program with a potential numeric overflow bug. The program uses two numeric variables, WS-CODE and WS-AMOUNT, which may exceed their defined limits, leading to unexpected behavior or program termination.  The bugSolution.cob file provides a corrected version that handles potential overflows more gracefully.
